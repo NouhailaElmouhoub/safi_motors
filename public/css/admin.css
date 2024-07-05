@@ -1,0 +1,45 @@
+.copyright {
+  background-color: #95979a;
+}
+
+.fixed {
+  -ms-flex: 0 0 250px;
+  flex: 0 0 250px;
+}
+
+.content-grey {
+  background-color: #f8f9fc;
+}
+
+hr {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+
+.img-profile {
+  height: 8rem;
+  width: 8rem;
+}
+
+.profile-font {
+  color: #858796 !important;
+  font-size: 80%;
+  font-weight: 400;
+}
+
+.card-header {
+  background-color: #f8f9fc;
+  border-bottom: 1px solid #e3e6f0;
+}
+.custom-nav .nav-link {
+  font-family: 'Arial', sans-serif; /* Change to your desired font */
+  font-size: 16px; /* Adjust the font size as needed */
+  font-weight: bold; /* Make the text bold */
+  color: #ffffff; /* Text color */
+  text-transform: capitalize; /* Capitalize the first letter of each word */
+}
+
+.custom-nav .nav-link img {
+  margin-right: 10px; /* Space between image and text */
+  vertical-align: middle; /* Align image vertically with text */
+}
